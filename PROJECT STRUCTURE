@@ -1,0 +1,19 @@
+vtu-system/
+│
+├── backend/
+│   ├── server.js
+│   ├── .env
+│   ├── models/
+│   │    ├── User.js
+│   │    ├── Transaction.js
+│   ├── routes/
+│   │    ├── auth.js
+│   │    ├── buy.js
+│   │    ├── admin.js
+│
+├── frontend/
+│   ├── index.html
+│   ├── main.jsx
+│   ├── App.jsx
+│   ├── Login.jsx
+│   ├── Dashboard.jsx
